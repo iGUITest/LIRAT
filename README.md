@@ -1,6 +1,6 @@
 # **LIRAT**
 
-## The vedio of the tool can be seen at:
+## The vedio of the tool can be seen at: https://youtu.be/PTZ81GMIPao
 
 ## **LIRAT**: Layout and Image Recognition Driving Automated Testing of Cross-Platform
 
