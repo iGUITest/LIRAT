@@ -1,5 +1,15 @@
 # **LIRAT**
 
+## Project
+
+- Frontend: [link](https://github.com/YSC9848/LIRAT-Frontend)
+
+	- Not Open-Sourced Yet
+
+- Backend: [link](https://github.com/YSC9848/LIRAT-Backend)
+
+	- Not Open-Sourced Yet
+
 ## The vedio of the tool can be seen at: https://youtu.be/fnIi2SrzKmg
 
 ## **LIRAT**: Layout and Image Recognition Driving Automated Mobile Testing of Cross-Platform
